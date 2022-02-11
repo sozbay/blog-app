@@ -23,11 +23,9 @@ Blog Api ile
  komutu çalıştırılmalıdır.
  
  Authentication ve authorization işlemleri için;
- - **composer require laravel/passport** <br>
-  Kütüphanesi indirilip 
- - **php artisan passport:install**
+ - **composer install** <br>
+  komutu çalıştırılmalıdır.
 
-   komutu ile paket yüklenmelidir.
    
    Ortamdaki Bazı Bilgiler Düzenlenmelidir<br><br>
     **Veritabanı Bilgileri**
