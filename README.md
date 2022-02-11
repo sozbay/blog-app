@@ -71,8 +71,8 @@ Blog Api ile
  
  **Authentication**
  
- - http://project.local/api/register --> kayıt ol
- - http://project.local/api/login --> giriş yap ve token oluştur
+ - http://blog-app.local/api/register --> kayıt ol
+ - http://blog-app.local/api/login --> giriş yap ve token oluştur
  
  Giriş yaptıktan sonra oluşan tokeni postman içinde {{token}} değişkene atayarak tüm request işlemlerini gerçekleştirebilisiniz.
  Tüm örnek requestler için 
